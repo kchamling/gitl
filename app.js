@@ -1,2 +1,2 @@
 const userName = "Kaman"
-const userAge = 29
+const userAge = 2
